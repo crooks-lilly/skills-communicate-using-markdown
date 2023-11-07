@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Add header
+- [x] Add image
+- [ ] Add task list
